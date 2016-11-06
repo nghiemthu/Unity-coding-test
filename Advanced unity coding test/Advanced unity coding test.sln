@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4A547DAA-AFB8-40AA-87D2-6BE864436295}") = "Advanced unity coding test", "Assembly-CSharp.csproj", "{EA2FAFB1-9257-96BC-5901-2E25CA679B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2FAFB1-9257-96BC-5901-2E25CA679B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2FAFB1-9257-96BC-5901-2E25CA679B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2FAFB1-9257-96BC-5901-2E25CA679B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2FAFB1-9257-96BC-5901-2E25CA679B62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PathFinding.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Grid.cs" Line="126" Column="4" />
+      <File FileName="Assets\Scripts\UserInput.cs" Line="49" Column="67" />
+      <File FileName="Assets\Scripts\Cell.cs" Line="57" Column="16" />
+      <File FileName="Assets\Scripts\Heap.cs" Line="87" Column="8" />
+      <File FileName="Assets\Scripts\PathFinding.cs" Line="64" Column="24" />
+      <File FileName="Assets\Scripts\Interface\IHeapItem.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
