@@ -112,7 +112,7 @@ public class PathFinding : MonoBehaviour {
 		int distanceX = Mathf.Abs (cellA.gridX - cellB.gridX);
 		int distanceY = Mathf.Abs (cellA.gridY - cellB.gridY);
 
-		return (distanceX > distanceY) ? (distanceX - distanceY) : (distanceY - distanceX);
+		return distanceX + distanceY;
 	}
 
 	private int HeightCost(Cell cellA, Cell cellB)
